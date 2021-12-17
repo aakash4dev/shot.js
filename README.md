@@ -1,6 +1,7 @@
 This javascript library will make javascript easy and short
 
-❌console.log('text')
+❌console.log('text')  
+
 ✅out('text')
 
 ❌document.getElementById('IDname')
