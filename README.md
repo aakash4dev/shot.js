@@ -4,11 +4,17 @@ This javascript library will make javascript easy and short
 
 ✅out('text')
 
+
 ❌document.getElementById('IDname')
+
 ✅id('IDname')
 
+
 ❌document.getElementsByClassName('ClassName')
+
 ✅cl('ClassName')
 
+
 ❌document.getElementsByTagName('div')
+
 ✅tag('div')
