@@ -1,4 +1,4 @@
-This javascript library will make javascript easy and short
+Its a very small javascript library will make javascript easy and short
 
 ❌console.log('text')  
 
